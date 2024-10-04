@@ -12,6 +12,6 @@ Exit time using Monte Carlo method.
 ![.](./Results/Domainh1.gif)
 
 domain 2
-![.](./Results/Domainh4.gif)
+![.](./Results/ColorBarTest1.gif)
 
 
