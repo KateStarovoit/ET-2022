@@ -13,10 +13,3 @@ Exit time using Monte Carlo method.
 
 ![.](./Results/ColorBarTest1.gif)
 
-![.](./Results/ColorBarTest1 (1).gif)
-
-![.](./Results/ColorBarTest1 (2).gif)
-
-![.](./Results/ColorBarTest1 (3).gif)
-
-![.](./Results/ColorBarTest1 42).gif)
