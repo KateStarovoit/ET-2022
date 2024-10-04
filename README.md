@@ -11,6 +11,8 @@ Exit time using Monte Carlo method.
 
 ![.](./Results/Domainh1.gif)
 
+![...,,,](./Results/ColorBarTest1 (1).gif)
+
 ![..](./Results/Domainh2.gif)
 
 ![...](./Results/Domainh3r1.gif)
@@ -19,5 +21,5 @@ Exit time using Monte Carlo method.
 
 ![.....](./Results/Domainh4.gif)
 
-![...,,,](./Results/ColorBarTest1 (1).gif)
+
 
