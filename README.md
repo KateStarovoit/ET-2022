@@ -9,12 +9,15 @@ Exit time using Monte Carlo method.
 
 ## Expected exit time calculation
 
-![...](./Results/Domainh1.gif)
+![.](./Results/Domainh1.gif)
 
-![...](./Results/Domainh2.gif)
+![..](./Results/Domainh2.gif)
 
 ![...](./Results/Domainh3r1.gif)
 
-![...](./Results/Domainh3r2.gif)
+![....](./Results/Domainh3r2.gif)
 
-![...](./Results/Domainh4.gif)
+![.....](./Results/Domainh4.gif)
+
+![...,,,](Results/ColorBarTest1 (1).gif)
+
