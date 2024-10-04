@@ -8,3 +8,5 @@ Exit time using Monte Carlo method.
 
 
 ## Expected exit time calculation
+
+![...](./Results/WalkerAtEachPoint1.gif)
